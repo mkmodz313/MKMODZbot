@@ -38,7 +38,7 @@ Sabse pehle is repository ko fork karein. Iske baghair aapki settings aur sessio
 Apne WhatsApp se connect karne ke liye pairing code hasil karein aur `creds.json` file ko `sessions` folder mein upload karein.
 
 <div align="center">
-  <a href="https://knight-bot-paircode.onrender.com">
+  <a href="https://pair.cypherxbot.space/">
     <img src="https://img.shields.io/badge/GET%20SESSION%20ID-WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="Pair Code"/>
   </a>
 </div>
